@@ -3,6 +3,11 @@
 Mark is an intelligent CRM assistant designed to help business professionals manage customer data, work orders, and other CRM tasks more efficiently. Integrated with **OpenAI** for language understanding, **Pinecone** for knowledge retrieval, and **HubSpot** API for CRM operations, Mark enables smooth interaction with CRM data, answering FAQs or performing CRUD operations seamlessly.
 ![WhatsApp Image 2024-11-14 at 21 36 35](https://github.com/user-attachments/assets/34645fa9-ea63-4559-ab15-8cb488439346)
 
+# Demo
+Watch a short pitch to understand the working of Mark!
+
+[Watch the Demo Video](https://drive.google.com/file/d/1aDjtAoyz5sTl9jFiv8v5v2gAXGpS9uDR/view?usp=drive_link)
+
 ## Features
 
 - **Knowledge Retrieval**: Using a Retrieval-Augmented Generation (RAG) approach, Mark answers frequently asked questions with information stored in a vector database.
@@ -19,12 +24,7 @@ Mark is an intelligent CRM assistant designed to help business professionals man
 - **Twilio**: For messaging interface.
 - **HubSpot API**: For CRM data operations.
 
-## Demo
-Watch a short pitch to understand the working of Mark!
 
-[![Watch the Video](https://drive.google.com/file/d/1aDjtAoyz5sTl9jFiv8v5v2gAXGpS9uDR/view?usp=drive_link)]
-
-[Watch the Demo Video](https://drive.google.com/file/d/1aDjtAoyz5sTl9jFiv8v5v2gAXGpS9uDR/view?usp=drive_link)
 ## Setup and Installation
 
 ### Prerequisites

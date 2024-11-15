@@ -22,7 +22,7 @@ Mark is an intelligent CRM assistant designed to help business professionals man
 ## Demo
 Watch a short pitch to understand the working of Mark!
 
-[![Watch the Video](https://drive.google.com/file/d/1aDjtAoyz5sTl9jFiv8v5v2gAXGpS9uDR/view?usp=drive_link)](https://drive.google.com/file/d/1aDjtAoyz5sTl9jFiv8v5v2gAXGpS9uDR/view?usp=drive_link)
+[![Watch the Video](https://drive.google.com/file/d/1aDjtAoyz5sTl9jFiv8v5v2gAXGpS9uDR/view?usp=drive_link)]
 
 [Watch the Demo Video](https://drive.google.com/file/d/1aDjtAoyz5sTl9jFiv8v5v2gAXGpS9uDR/view?usp=drive_link)
 ## Setup and Installation
